@@ -1,0 +1,10 @@
+{
+  "lr": 0.007141237239626188,
+  "weight_decay": 8.960152341543e-05,
+  "weight_dropout_rate": 0.4,
+  "train_minibatch_rate": 0.8500000000000001,
+  "n_hidden_layers": 1,
+  "n_nodes": 3,
+  "best_trial_num": 44,
+  "activation": "tanh"
+}
